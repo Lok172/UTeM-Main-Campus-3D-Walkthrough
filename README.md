@@ -30,3 +30,4 @@ Mouse drag = Change point of view
    - glut32.lib > C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86
    - glut.dll and glut32.dll >  C:\Windows\SysWOW64
    - glut32.dll > C:\Windows\System32
+5. Get `freeglut` from NuGet Package Manager
