@@ -9,15 +9,15 @@ This project develops a 3D walkthrough simulation of the FTMK faculty building l
 - Visual Studio
 
 ## Controls
-w / W = Move forward
-a / A = Move left
-d / D = Move right
-s / S = Move back
-q / Q = Yaw left
-e / E = Yaw right
-f / F = Toggle full screen
-b / B = Toggle collision box
-Mouse drag = Change point of view
+- w / W = Move forward
+- a / A = Move left
+- d / D = Move right
+- s / S = Move back
+- q / Q = Yaw left
+- e / E = Yaw right
+- f / F = Toggle full screen
+- b / B = Toggle collision box
+- Mouse drag = Change point of view
 
 ## Setup 
 1. Download Visual Studio: https://visualstudio.microsoft.com/vs/
