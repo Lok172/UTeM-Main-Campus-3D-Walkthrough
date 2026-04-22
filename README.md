@@ -33,4 +33,4 @@ This project develops a 3D walkthrough simulation of the FTMK faculty building l
 5. Get `freeglut` from NuGet Package Manager
    
 ## Demo 
-Demo video available on YouTube: `https://youtu.be/gv1D1eKbUqQ`
+Demo video available on YouTube: https://youtu.be/gv1D1eKbUqQ
