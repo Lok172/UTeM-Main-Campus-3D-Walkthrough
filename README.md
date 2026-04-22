@@ -24,7 +24,7 @@ This project develops a 3D walkthrough simulation of the FTMK faculty building l
 2. Install Desktop development with C++ in Visual Studio
 3. Download glutdlls37beta.zip : https://www.opengl.org/resources/libraries/glut/glut_downloads.php
 4. Extract the ZIP file and copy the required files to the following locations  
-   *(Adjust the year in paths based on your Visual Studio version, 2022 is used as an example)*:
+   **(Adjust the year in paths based on your Visual Studio version, 2022 is used as an example):**
    - glut.h > C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\gl
    - glut.lib >  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64
    - glut32.lib > C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86
