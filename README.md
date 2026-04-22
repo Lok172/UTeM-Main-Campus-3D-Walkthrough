@@ -2,6 +2,7 @@
 
 ## Overview
 This project develops a 3D walkthrough simulation of the FTMK faculty building located at UTeM Main Campus. The simulation features an immersive first-person perspective, collision detection, and ambient background music to provide a realistic exploration experience.
+Demo video available on YouTube: `https://youtu.be/gv1D1eKbUqQ`
 
 ## Tech Stack
 - OpenGL
